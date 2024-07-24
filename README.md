@@ -5,4 +5,4 @@ The sales analysis project successfully identified critical insights that can dr
 Overall, this project demonstrates the power of data-driven decision-making in optimizing sales performance and enhancing business operations. The insights derived from this analysis can serve as a foundation for strategic planning and continuous improvement in sales and marketing efforts. ​
 <br>
 <br>
-Note - I am also not able to upload the dataset because it is too large for GitHub. However, I have uploaded an export of the data, like a sample of the dataset.
+Note - I am not able to upload the dataset because it is too large for GitHub.
